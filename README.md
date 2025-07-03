@@ -34,6 +34,8 @@
     *APAC nnd Null regions have the longest average shipping time (6 days), While EMEA and LATAM perform better (4.5 days)
 
 #Dashboard
+
+The dashboard can be found in Tableau Public 
    
 
 
