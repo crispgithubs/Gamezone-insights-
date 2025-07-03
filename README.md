@@ -37,7 +37,7 @@
 
 The dashboard can be found in Tableau Public -<a href="https://github.com/crispgithubs/Gamezone-insights-/blob/main/Gamezone__InsightsDashboard.twbx">Gamezone_Insights Dashboard</a> 
 
-![](images/Dashboard1%(2).png)
+
 
 
 
