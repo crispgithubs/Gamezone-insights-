@@ -15,7 +15,7 @@
    * Total Orders:21,719
    * Average Order Valus: 283
 
- Sales by Reigon
+ Sales by Reigon 
  
    *North America(NA) leads with over 3.2M in Sales Followed by EMEA(186M0 and APAC(743K)
    *LATAM And Null Region contribute less significantly
