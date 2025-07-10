@@ -46,6 +46,9 @@
 
 https://github.com/crispgithubs/Gamezone-insights-/commit/9960bf617cad5110b2d6be540730db1dd1a8dd9c
 
+##Presentation sample
+  The presentation created for the gamezone teams walk through the insights and recommendation above and be found 
+
 
 
 
