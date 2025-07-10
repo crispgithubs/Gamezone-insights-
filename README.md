@@ -1,4 +1,4 @@
-# Gamezone-insights-
+ex# Gamezone-insights-
 ##The goal of this project is to investigate the performance of sales at gamezone in order to surface recommendation. 
 
 #Introduction  
@@ -47,7 +47,7 @@
 https://github.com/crispgithubs/Gamezone-insights-/commit/9960bf617cad5110b2d6be540730db1dd1a8dd9c
 
 ##Presentation sample
-  The presentation created for the gamezone teams walk through the insights and recommendation above and be found https://github.com/crispgithubs/Gamezone-insights-/blob/main/Finance%20Division.pdf    Some 
+  The presentation created for the gamezone teams walk through the insights and recommendation above and be found https://github.com/crispgithubs/Gamezone-insights-/blob/main/Finance%20Division.pdf    Some extracts are presented below for easy viewing.
  
 
 
