@@ -44,7 +44,7 @@ ex# Gamezone-insights-
 
  The dashboard can be found in Tableau Public -<a href="https://github.com/crispgithubs/Gamezone-  insights-/blob/main/Gamezone__InsightsDashboard.twbx">Gamezone_Insights Dashboard</a>  
 
-https://github.com/crispgithubs/Gamezone-insights-/commit/9960bf617cad5110b2d6be540730db1dd1a8dd9c
+<img width="1781" height="949" alt="Image" src="https://github.com/user-attachments/assets/5f15fd4d-a487-4ae6-8feb-1b5eb006adc3" />
 
 ##Presentation sample
   The presentation created for the gamezone teams walk through the insights and recommendation above and be found https://github.com/crispgithubs/Gamezone-insights-/blob/main/Finance%20Division.pdf    Some extracts are presented below for easy viewing.
