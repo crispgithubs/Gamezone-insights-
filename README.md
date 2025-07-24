@@ -18,8 +18,8 @@ The goal of this project is to investigate the performance of sales at gamezone 
 
 **Sales by Region**
  
-   *North America(NA) leads with over 3.2M in Sales Followed by EMEA(186M0 and APAC(743K)
-   *LATAM And Null Region contribute less significantly
+   * North America(NA) leads with over 3.2M in Sales Followed by EMEA(186M0 and APAC(743K)
+   * LATAM And Null Region contribute less significantly
    
  Sales by Platform
  
