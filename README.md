@@ -49,6 +49,7 @@ ex# Gamezone-insights-
 ##Presentation sample
   The presentation created for the gamezone teams walk through the insights and recommendation above and be found  https://github.com/crispgithubs/Gamezone-insights-/blob/main/Finance%20Division%20(4).pdf Some extracts are presented below for easy viewing.
   <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7cc17a5f-cc0a-4e4e-be70-e8fe456a316b" />
+  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8d1dbe41-7406-4be3-b691-a78be8a7a06a" />
   
   
  
