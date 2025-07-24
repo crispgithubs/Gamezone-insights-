@@ -10,13 +10,13 @@ The goal of this project is to investigate the performance of sales at gamezone 
  
  in order to evaluate on sales performance we focused on the following metrics and deminsion
 
- Total Sales and Orders 
+ **Total Sales and Orders**
  
    * Total sales: 6,151,266
    * Total Orders:21,719
    * Average Order Valus: 283
 
- Sales by Reigon 
+**Sales by Region**
  
    *North America(NA) leads with over 3.2M in Sales Followed by EMEA(186M0 and APAC(743K)
    *LATAM And Null Region contribute less significantly
