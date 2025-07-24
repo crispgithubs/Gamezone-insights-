@@ -4,11 +4,11 @@ The goal of this project is to investigate the performance of sales at gamezone 
 
 **Introduction** 
 
- gamwzone ia a gaming company this dashboard delivers  comprehensive analysis of sales performance across multiple businwss dimension. The key metrics such as tital sales,total orders. amd average order value providing stakeholder with actionable insights.it breaks down sales by marketing channel,platform,and region and highlights the otp performing product and their average selling price.this tool is designed to support data driven decision making and optimize sales strategies for improved business outcome.
+ gamezone ia a gaming company this dashboard delivers  comprehensive analysis of sales performance across multiple business dimension. The key metrics such as total sales,total orders. and average order value providing stakeholder with actionable insights.it breaks down sales by marketing channel,platform,and region and highlights the otp performing product and their average selling price.this tool is designed to support data driven decision making and optimize sales strategies for improved business outcome.
 
- #Insights Summary 
-
- ##in order to evaluate on sales performance we focused on the following metrics and deminsion
+ **Insights Summary**
+ 
+ in order to evaluate on sales performance we focused on the following metrics and deminsion
 
  Total Sales and Orders 
  
