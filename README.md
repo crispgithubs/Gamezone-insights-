@@ -41,7 +41,7 @@ The goal of this project is to investigate the performance of sales at gamezone 
  
    * APAC nnd Null regions have the longest average shipping time (6 days), While EMEA and LATAM perform better (4.5 days)
 
- Dashboard
+ **Dashboard**
 
  The dashboard can be found in Tableau Public -<a href="https://github.com/crispgithubs/Gamezone-  insights-/blob/main/Gamezone__InsightsDashboard.twbx">Gamezone_Insights Dashboard</a>  
 
