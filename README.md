@@ -43,7 +43,7 @@ The goal of this project is to investigate the performance of sales at gamezone 
 
  **Dashboard**
 
- The dashboard can be found in Tableau Public -<a href="https://github.com/crispgithubs/Gamezone-  insights-/blob/main/Gamezone__InsightsDashboard.twbx">Gamezone_Insights Dashboard</a>  
+ The dashboard can be found in Tableau Public https://github.com/crispgithubs/Gamezone-insights-/blob/main/Gamezone__InsightsDashboard.twbx>Gamezone_Insights Dashboard</a>  
 
 <img width="1781" height="949" alt="Image" src="https://github.com/user-attachments/assets/5f15fd4d-a487-4ae6-8feb-1b5eb006adc3" />
 
